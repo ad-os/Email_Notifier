@@ -1,0 +1,1 @@
+This is a simple app written in java using popular frameworks like spring and hibernate(ORM) which notifies the user through email when the user is added to the database.
